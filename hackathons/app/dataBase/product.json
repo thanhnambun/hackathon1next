@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "productName": "Táo",
+        "price": 15000,
+        "quantity": 20,
+        "img": "https://login.medlatec.vn//ImagePath/images/20221028/20221028_qua-tao-1.jpg"
+    },
+    {
+        "id": 3,
+        "productName": "Bơ",
+        "price": 20000,
+        "quantity": 15,
+        "img": "https://images.baodantoc.vn/uploads/2023/Th%C3%A1ng%202/Ng%C3%A0y%208/Thanh/an-bo-da-tot-nhung-an-dung-thoi-diem-se-tot-hon-van-lan-202107131644096368.jpg"
+    },
+    {
+        "id": 4,
+        "productName": "Chuối",
+        "price": 10000,
+        "quantity": 30,
+        "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-asm/posts/an-chuoi-4.webp"
+    },
+    {
+        "id": 5,
+        "productName": "Nho",
+        "img": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/an_nho_co_tot_khong_thanh_phan_dinh_duong_trong_qua_nho_la_gi_1_9159e2dc25.jpg",
+        "price": 15000,
+        "quantity": 25
+    }
+]
